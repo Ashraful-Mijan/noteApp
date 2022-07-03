@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195559917526",
+    "project_id": "acc-nativ-note-app",
+    "storage_bucket": "acc-nativ-note-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195559917526:android:386f2a5ff44e234db34677",
+        "android_client_info": {
+          "package_name": "com.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195559917526-86s7jum39t8fg189soil61b68fd6opao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KrY-mJ89CAYedG32l36aT6EXHiF3mQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195559917526-86s7jum39t8fg189soil61b68fd6opao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
